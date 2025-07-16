@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<killstreakConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <MessageColor>magenta</MessageColor>
+  <MessageIconUrl>https://i.imgur.com/ceyPI5h.png</MessageIconUrl>
+  <GlobalCooldown>0</GlobalCooldown>
+</killstreakConfiguration>

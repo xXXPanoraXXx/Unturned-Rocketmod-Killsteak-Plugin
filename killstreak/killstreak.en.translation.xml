@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Translations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Translation Id="KillstreakEnded" Value="&lt;color=red&gt;{0}&lt;/color&gt; &lt;color=#808080&gt;has ended the {1} killstreak of&lt;/color&gt; &lt;color=red&gt;{2}&lt;/color&gt;&lt;color=#808080&gt;.&lt;/color&gt;" />
+  <Translation Id="Killstreak5" Value="&lt;color=#FFD700&gt;&lt;b&gt;KILLSTREAK!&lt;/b&gt; &lt;b&gt;★&lt;/b&gt;&lt;/color&gt;&lt;color=red&gt;{0}&lt;/color&gt; &lt;color=#808080&gt;achieved a&lt;/color&gt; &lt;color=#FFD700&gt;&lt;b&gt;5&lt;/b&gt;&lt;/color&gt;&lt;color=#808080&gt;-killstreak by killing&lt;/color&gt; &lt;color=red&gt;{1}&lt;/color&gt; &lt;color=#808080&gt;!&lt;/color&gt; &lt;color=#FFD700&gt;★&lt;/color&gt;" />
+  <Translation Id="Killstreak10" Value="&lt;color=#FFD700&gt;&lt;b&gt;KILLSTREAK!&lt;/b&gt; &lt;b&gt;★&lt;/b&gt;&lt;/color&gt;&lt;color=red&gt;{0}&lt;/color&gt; &lt;color=#808080&gt;achieved a&lt;/color&gt; &lt;color=#FFD700&gt;&lt;b&gt;10&lt;/b&gt;&lt;/color&gt;&lt;color=#808080&gt;-killstreak by killing&lt;/color&gt; &lt;color=red&gt;{1}&lt;/color&gt; &lt;color=#808080&gt;!&lt;/color&gt; &lt;color=#FFD700&gt;★&lt;/color&gt;" />
+  <Translation Id="Welcome" Value="" />
+</Translations>
